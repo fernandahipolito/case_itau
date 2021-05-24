@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Case Itau</string>
+    <string name="transactions_activity_title">Últimos lançamentos</string>
+    <string name="detail_activity_title">Detalhes</string>
+    <string name="origem">Origem:</string>
+    <string name="valor">Valor</string>
+    <string name="categoria">Categoria:</string>
+
+    <string name="error_401">Não autorizado</string>
+    <string name="error_400">Erro não tratado</string>
+    <string name="error_500">Erro fatal!</string>
 </resources>
